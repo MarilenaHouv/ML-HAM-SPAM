@@ -12,4 +12,4 @@ SPAM email detection system using machine learning (Spacy)
 
   `source venv/bin/activate`
   
-Optional: get spacey etension on vs code
+Optional: get spacey extension on vs code
